@@ -20,6 +20,6 @@ switch(option){
         document.write(`${firstNum} / ${secondNum} = ${result}`)
         break;
     default:
-        console.log("incorrect option");
+        document.write("incorrect option");
         break;
 }
